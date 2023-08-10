@@ -1,1 +1,5 @@
-//your JS code here. If required.
+function isFibonacci(num) {
+		// Write your code here
+}
+const input = parseInt(prompt("Enter a number"));
+alert(isFibonacci(input));
